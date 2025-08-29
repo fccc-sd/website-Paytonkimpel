@@ -61,3 +61,6 @@ nav a:active{
     text-decoration: underline;
 
 }
+div{
+    font-weight: bold;
+}
